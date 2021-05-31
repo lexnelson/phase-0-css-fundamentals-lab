@@ -3,3 +3,24 @@ body {
   height: 100%;
   margin: 0;
 }
+h1 { text-align: center;
+}
+img { display: block;
+align-self: center;
+}
+
+#featured-property {
+  width:800px;
+  text-align: center;
+}
+a {text-align: center;
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: rgb(153, 147, 147);
+}
+#details div{float: left;}
+
+div { text-align: center;
+  background-color: bisque;
+  width: 25%;
+}
